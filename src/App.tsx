@@ -70,10 +70,10 @@ const App = () => {
                 <Link className="nav-link text-white-50" to="/faq">FAQ</Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link text-white-50" href="https://twitter.com/MagicPeacocks">Twitter</a>
+                <a className="nav-link text-white-50" href="https://twitter.com/fatcatmafia">Twitter</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link text-white-50" href="https://discord.gg/YPFAR2EHKH">Discord</a>
+                <a className="nav-link text-white-50" href="https://discord.gg/fatcatmafia">Discord</a>
               </li>
             </ul>
           </div>

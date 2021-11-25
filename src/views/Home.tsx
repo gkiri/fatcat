@@ -184,8 +184,10 @@ const Home = (props: HomeProps) => {
         <div className="row">
           <div className="col-12">
             <div className="mt-4 text-center">
-              <img className="w-50" src="images/home-title.svg" alt="" />
+              <img className="w-50" src="images/brand.png" alt="" />
               <h4>Our Story</h4>
+              <img className="w-50" src="images/Banner.png" alt="" />
+
               <p className="text-white-50"> The underworld is being ruled by a syndicate, known as the Fat Cat Mafia.
 
 These notorious gangsters are known particularly for controlling the economy by distributing and smuggling catnip into what was once a save haven of a country.
@@ -252,21 +254,22 @@ THE CAT, pioneer of organized crime, inventor of money laundering and the highes
             <img className="w-100" src="images/example-three.png" alt="" />
           </div>
           <div className="col-md-4">
-            <img className="w-100" src="images/example-four.jpg" alt="" />
+            <img className="w-100" src="images/example-four.png" alt="" />
           </div>
           <div className="col-md-4">
-            <img className="w-100" src="images/example-five.jpg" alt="" />
+            <img className="w-100" src="images/example-five.png" alt="" />
           </div>
           <div className="col-md-4">
-            <img className="w-100" src="images/example-six.jpg" alt="" />
+            <img className="w-100" src="images/example-six.png" alt="" />
           </div>
-        </div>
-      </section>
-      
-      <section className="mb-4">
-        <div className="row">
-          <div className="col-lg-2">
-            <img className="w-10" src="images/example-seven.png" alt="" />
+          <div className="col-md-4">
+            <img className="w-100" src="images/example-seven.png" alt="" />
+          </div>
+          <div className="col-md-4">
+            <img className="w-100" src="images/example-eight.png" alt="" />
+          </div>
+          <div className="col-md-4">
+            <img className="w-100" src="images/example-nine.png" alt="" />
           </div>
         </div>
       </section>
