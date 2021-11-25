@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1200" height="300" viewBox="2.94 11.225 291.308 63.072" version="1.1" id="svg1673" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs id="defs1667">
+    <linearGradient id="linearGradient982" x1="31.805075" y1="108.24416" x2="149.1364" y2="155.2836" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3.4893926,0,0,3.4893926,-156.68948,-429.24372)" xlink:href="#linearGradient980"/>
+    <linearGradient id="linearGradient980">
+      <stop style="stop-color:#14c4e1;stop-opacity:1" offset="0" id="stop976"/>
+      <stop style="stop-color:#ff2ad5;stop-opacity:1" offset="1" id="stop978"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1">
+    <text id="text837" style="font: 88.6306px / 1.25 System-ui; fill: url(#linearGradient982); fill-opacity: 1; stroke-width: 0.923232; white-space: pre;" x="-1.0584804" y="71.94104"><tspan id="tspan835" x="-1.0584804" y="71.94104" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.6306px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:url(#linearGradient982);fill-opacity:1;stroke-width:0.923232">SolLoot</tspan></text>
+    <text style="font-size: 5.64444px; line-height: 1.25; font-family: sans-serif; stroke-width: 0.264583; white-space: pre;" x="219.2262" y="116.41667" id="text2262"><tspan id="tspan2260" x="219.2262" y="116.41667" style="stroke-width:0.264583"/></text>
+  </g>
+</svg>

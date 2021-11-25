@@ -1,0 +1,20 @@
+html {
+  font-size: 20px;
+}
+
+body {
+  color: #fff;
+  background-color: #1a1a1a;
+  font-family: EB Garamond,serif,sans-serif;
+}
+
+.brand-image {
+  width: 56px;
+}
+
+@media (min-width: 1200px)
+{
+  .container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 960px;
+  }
+}

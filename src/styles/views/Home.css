@@ -1,0 +1,28 @@
+.title {
+    background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 5rem;
+}
+
+.loot-body .MuiPaper-root {
+    color: #940f6a;
+}
+
+.loot-body .MuiButton-root {
+    color: #fff;
+    text-transform: none;
+    font-family: EB Garamond,serif,sans-serif;
+}
+
+.loot-body .MuiDialog-root .MuiDialogTitle-root {
+    background-color: #212121;
+}
+
+.loot-body .MuiTypography-h6 {
+    font-family: EB Garamond,serif,sans-serif;
+}
+
+.loot-body .MuiAlert-standardError {
+    background-color: #212121;
+}
